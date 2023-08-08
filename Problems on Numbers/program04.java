@@ -24,7 +24,7 @@ class Numbers
     }
 }
 
-class program4
+class program04
 {
     public static void main(String args[])
     {
