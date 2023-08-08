@@ -22,7 +22,7 @@ class Numbers
     }
 }
 
-class program7
+class program07
 {
     public static void main(String args[])
     {
